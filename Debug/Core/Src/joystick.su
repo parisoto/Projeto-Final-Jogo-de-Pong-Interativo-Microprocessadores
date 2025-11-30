@@ -1,0 +1,4 @@
+../Core/Src/joystick.c:9:6:Joystick_Init	16	static
+../Core/Src/joystick.c:14:10:Joystick_Read	16	static
+../Core/Src/joystick.c:23:9:Joystick_GetPosition	16	static
+../Core/Src/joystick.c:33:9:Joystick_GetState	16	static

@@ -1,0 +1,9 @@
+../Core/Src/st7789.c:14:6:ST7789_WriteCommand	16	static
+../Core/Src/st7789.c:21:7:ST7789_WriteData	16	static
+../Core/Src/st7789.c:28:7:ST7789_Reset	8	static
+../Core/Src/st7789.c:35:7:ST7789_Init	8	static
+../Core/Src/st7789.c:57:7:ST7789_SetAddressWindow	32	static
+../Core/Src/st7789.c:80:7:ST7789_FillColor	32	static
+../Core/Src/st7789.c:102:7:ST7789_DrawPixel	24	static
+../Core/Src/st7789.c:116:7:ST7789_DrawBall	40	static
+../Core/Src/st7789.c:142:7:ST7789_FillRect	40	static

@@ -1,0 +1,4 @@
+../Core/Src/my_font.c:243:6:ST7789_DrawChar	40	static
+../Core/Src/my_font.c:275:6:ST7789_DrawString	48	static
+../Core/Src/my_font.c:293:6:ST7789_DrawCharScaled	48	static
+../Core/Src/my_font.c:348:6:ST7789_DrawStringScaled	48	static

@@ -1,0 +1,3 @@
+../Core/Src/keypad.c:40:6:KEYPAD_ReadKey	24	static
+../Core/Src/keypad.c:77:6:KEYPAD_StartInput	16	static
+../Core/Src/keypad.c:97:6:KEYPAD_GetWord	40	static
