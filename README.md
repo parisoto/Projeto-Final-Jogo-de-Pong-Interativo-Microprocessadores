@@ -23,4 +23,9 @@ Este projeto foi desenvolvido utilizando a **STM32CubeIDE**.
 3. Conecte a placa e faça o upload do código.
 
 ---
-Autores: Jonas André Basotto Minati, Kauã Lucca Gazzano e Gustavo Parisoto
+## 👥 Autores
+* **Jonas André Basotto Minati**
+* **Kauã Lucca Gazzano**
+* **Gustavo Parisoto**
+
+*Engenharia de Computação - Unoesc*
